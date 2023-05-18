@@ -33,7 +33,7 @@
                     @csrf
 					<div class="form-group">
 						<label for="card-number">شماره کارت</label>
-						<input type="text" class="form-control" id="card-number" name="card_number" value="5022291090276708">
+						<input type="text" class="form-control" id="card-number" name="card_number" value="">
 					</div>
 					<div class="form-group">
 						<label for="amount">مبلغ پرداختی</label>
